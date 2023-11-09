@@ -42,6 +42,7 @@ Estimate the smoke impact of wildfires on the city of Texarkana, TX.
 - [distance_histogram.png](https://github.com/jmic94/data512-common-analysis/blob/main/output/distance_histogram.png) is a chart showing the distribution of wildfire proximity to Texarkana, TX from 1963 to 2020.
 - [est_vs_aqi.png](https://github.com/jmic94/data512-common-analysis/blob/main/output/est_vs_aqi.png) is a chart comparing the annual smoke estimate and the annual fire season AQI from 1999 to 2020.
 - [smoke_forecast.png](https://github.com/jmic94/data512-common-analysis/blob/main/output/smoke_forecast.png) is a chart showing the annual smoke estimates from 1963 to 2020 as well as the forecast smoke estimates from 2021 to 2049. It also includes a 95% confidence interval for the forecasts.
+- [write_up.pdf](https://github.com/jmic94/data512-common-analysis/blob/main/write_up.pdf) is a document with detailed descriptions of the first three charts above and a reflection statement.
 
 # Notes
 - There are roughly 130,000 wildfires in the USGS dataset, of which around 63,000 occurred from 1963 onwards AND occurred within 1,250 miles of Texarkana, TX.
