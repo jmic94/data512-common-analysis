@@ -27,7 +27,7 @@ Estimate the smoke impact of wildfires on the city of Texarkana, TX.
 - USGS_Wildland_Fire_Combined_Dataset.json.
 - Obtain this JSON file from the USGS link above.
 - Download the file called 'GeoJSON Files.zip'.
-- Unzip this zip file in the 'input/' folder of this repo.
+- Unzip this zip file in a folder called 'input' in this repo.
 - Any code that utilizes this JSON will access it from this location.
 
 # Intermediates
