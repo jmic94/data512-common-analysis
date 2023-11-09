@@ -22,6 +22,7 @@ Estimate the smoke impact of wildfires on the city of Texarkana, TX.
 - All of the analysis lives in the notebook [analyze_wildfires.ipynb](https://github.com/jmic94/data512-common-analysis/blob/main/code/analyse_wildfires.ipynb).
 - [epa_air_quality_history_example.ipynb](https://github.com/jmic94/data512-common-analysis/blob/main/code/epa_air_quality_history_example.ipynb) contains sample code for using the AQS API along with the code license information.
 - [wildfire_geo_proximity_example.ipynb](https://github.com/jmic94/data512-common-analysis/blob/main/code/wildfire_geo_proximity_example.ipynb) contains sample code for working with the USGS wildfire dataset along with the code license information.
+- [wildfire](https://github.com/jmic94/data512-common-analysis/tree/main/code/wildfire) contains a Python class that other notebooks import.
 
 # Inputs
 - USGS_Wildland_Fire_Combined_Dataset.json.
