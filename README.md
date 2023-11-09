@@ -29,6 +29,7 @@ Estimate the smoke impact of wildfires on the city of Texarkana, TX.
 - Download the file called 'GeoJSON Files.zip'.
 - Unzip this zip file in a folder called 'input' in this repo.
 - Any code that utilizes this JSON will access it from this location.
+- The rest of the data needed for analysis come from the AQS API.
 
 # Intermediates
 - [aqs.csv](https://github.com/jmic94/data512-common-analysis/blob/main/intermediate/aqs_data.csv) contains the AQI data from 1963 to 2023 for air quality monitoring stations in Texerkana TX.
